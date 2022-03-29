@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning with O'Clock school
 - 💞️ I’m looking to collaborate on a lot of projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christophe-Desmarres&layout=compact)](https://github.com/Christophe-Desmarres/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christophe-Desmarres&layout=compact&card_width=445px)](https://github.com/Christophe-Desmarres/github-readme-stats)
 
 
 [![Christophe-Desmarres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christophe-Desmarres&show_icons=true)](https://github.com/Christophe-Desmarres/github-readme-stats) 
