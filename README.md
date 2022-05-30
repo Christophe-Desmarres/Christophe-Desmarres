@@ -15,7 +15,9 @@
   <a href="https://linkedin.com/in/christophe-desmarres-170022a3"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>	
   <a href="https://twitter.com/noursausore"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 -----
 Credits: [Christophe Desmarres](https://github.com/Christophe-Desmarres)
